@@ -286,7 +286,7 @@ def psb(z):
         time.sleep(0.03)
 
 fuckx=str(input("\033[1;92mENTER YOUR USER NAME : "))
-os.system('xdg-open  https://github.com/anisur143    ')
+os.system('xdg-open https://github.com/anisur143')
 name=fuckx.upper()
 
 psb('\x1b[1;31mBANGLADESH ANISUR CLONING START PLEASE WAIT ..........')
@@ -398,43 +398,43 @@ def main():
     print(f"╚══[{H}[{M}U{H}] {M}UPDATE PROGRAMME ")
     sh = input("    \033[0;91m(#)\033[0;92m CHOOSE : ")
     if sh =='1':
-       os.system('xdg-oopen    https://www.facebook.com/groups/420422506473585/?ref=share_group_link  ')
+       os.system('xdg-open https://www.facebook.com/anisur.rahman.bro')
        sh6()
     if sh =='2':
-       os.system('xdg-open   https://www.facebook.com/groups/420422506473585/?ref=share_group_link   ')
+       os.system('xdg-open https://www.facebook.com/anisur.rahman.bro')
        sh7()
     if sh =='3':
-       os.system('xdg-open    https://www.facebook.com/groups/420422506473585/?ref=share_group_link ')
+       os.system('xdg-open https://www.facebook.com/anisur.rahman.bro')
        sh8()
     if sh =='4':
-       os.system('xdg-open https://www.facebook.com/groups/420422506473585/?ref=share_group_link   ')
+       os.system('xdg-open https://www.facebook.com/anisur.rahman.bro')
        sh9()
     if sh =='5':
-       os.system('xdg-open  https://www.facebook.com/groups/420422506473585/?ref=share_group_link  ')
+       os.system('xdg-open https://www.facebook.com/anisur.rahman.bro')
        sh10()
     if sh =='6':
-       os.system('xdg-open https://www.facebook.com/groups/420422506473585/?ref=share_group_link  ')
+       os.system('xdg-open https://www.facebook.com/anisur.rahman.bro')
        sh11()
     if sh =='7':
-       os.system('xdg-open   https://www.facebook.com/groups/420422506473585/?ref=share_group_link  ')
+       os.system('xdg-open https://www.facebook.com/anisur.rahman.bro')
        sh12()
     if sh =='8':
-       os.system('xdg-open  https://github.com/anisur143  ')
+       os.system('xdg-open https://www.facebook.com/anisur.rahman.bro')
        sh13()
     if sh =='9':
-       os.system('xdg-open https://www.facebook.com/groups/420422506473585/?ref=share_group_link  ')
+       os.system('xdg-open https://www.facebook.com/anisur.rahman.bro')
        sh14()
     if sh =='F':
-       os.system('xdg-open https://www.facebook.com/groups/420422506473585/?ref=share_group_link   ')
+       os.system('xdg-open https://www.facebook.com/anisur.rahman.bro')
        main()
     if sh =='y':
-       os.system('xdg-open https://www.facebook.com/groups/420422506473585/?ref=share_group_link   ')
+       os.system('xdg-open https://www.facebook.com/anisur.rahman.bro')
        main()
     if sh =='U':
-       os.system('xdg-open  https://www.facebook.com/groups/420422506473585/?ref=share_group_link  ')
+       os.system('xdg-open https://www.facebook.com/anisur.rahman.bro')
        main()
     elif sh =='00':
-        os.system('xdg-open  https://www.facebook.com/groups/420422506473585/?ref=share_group_link   ')
+        os.system('xdg-open https://www.facebook.com/anisur.rahman.bro')
     else:
         os.system('xdg-open https://github.com/anisur143')
         main()
@@ -1050,7 +1050,7 @@ def m(uid,pwx,tl):
                 continue
         loop+=1
         animasi = random.choice(["\x1b[1;91mANISUR143","\x1b[1;92mANISUR","\x1b[1;93mANISUR","\x1b[1;94mANISUR","\x1b[1;95mANISUR","\x1b[1;96mANISUR","\x1b[1;97mANISUR","\x1b[1;91mANISUR","\x1b[1;92mANISUR","\x1b[1;93mANISUR","\x1b[1;94mANISUR","\x1b[1;95mANISUR","\x1b[1;96mANISUR"])
-        sys.stdout.write(f'\r    {P}[{anisur}{P}][{K}%s{P}/{B}%s{P}][{H}OK{P}]{P}[{H}%s{P}] \r'%(loop,tl,len(ok))),
+        sys.stdout.write(f'\r    {P}[{animasi}{P}][{K}%s{P}/{B}%s{P}][{H}OK{P}]{P}[{H}%s{P}] \r'%(loop,tl,len(ok))),
         sys.stdout.flush()
     except:
         pass
